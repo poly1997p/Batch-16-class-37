@@ -512,10 +512,11 @@ include 'config.php';
                 <a href="" class="text-decoration-none">
                     <h1 class="mb-4 display-5 font-weight-semi-bold"><span class="text-primary font-weight-bold border border-white px-3 mr-1">E</span>Shopper</h1>
                 </a>
-                <p>Dolore erat dolor sit lorem vero amet. Sed sit lorem magna, ipsum no sit erat lorem et magna ipsum dolore amet erat.</p>
-                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>123 Street, New York, USA</p>
-                <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
-                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+                <p>We’re Here to Help <br>
+                Have any questions or need assistance? Reach out to us-we’re always ready to support you.</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>New market, ctg</p>
+                <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>sam98@gmail.com</p>
+                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>018xxxxxxxx</p>
             </div>
             <div class="col-lg-8 col-md-12">
                 <div class="row">
